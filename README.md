@@ -97,3 +97,7 @@ Les fichiers créés se trouveront dans le répertoire « dist » et pourront 
 ## Remarque
 
 Ceci est un projet de démonstration à des fins éducatives uniquement et n'est pas affilié à Amazon.
+
+## Lien du site
+
+https://serene-squirrel-13544f.netlify.app/
